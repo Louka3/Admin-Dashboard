@@ -9,10 +9,28 @@ body{
 
 .left-side-page{
     background-color: #1992D4;
+    color: white;
     height: 100vh;
     width: 15vw;
 }
 
+/* need to redownload all the icons as svg's */
+
+.dashboard-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard-header img{
+    height: 42px;
+    width: 42px;
+}
+
+
+
+
+/* ----------------------------------------- */
 .right-side-page{
     background-color: lightslategrey;
     height: 100vh;
