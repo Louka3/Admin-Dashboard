@@ -1,3 +1,20 @@
-:root{
+
+body{
+    display: flex;
+    height: 100%;
+    width: 100%;
     margin: 0;
+    padding: 0;
+}
+
+.left-side-page{
+    background-color: #1992D4;
+    height: 100vh;
+    width: 15vw;
+}
+
+.right-side-page{
+    background-color: lightslategrey;
+    height: 100vh;
+    width: 85vw;
 }
